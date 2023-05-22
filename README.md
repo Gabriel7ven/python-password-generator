@@ -6,7 +6,6 @@
 - [Hard Level](https://github.com/Gabriel7ven/python-password-generator/edit/main/README.md#hard-level)
 - [Running the Program](https://github.com/Gabriel7ven/python-password-generator/edit/main/README.md#running-the-program)
 
-<a name="overview"></a>
 ## Overview
 This project is solution to the 5th day's challenge  of the course '100 Days of Code' in Python with Dr. Angela Yu.
 The challenge was to build a password generator in two different levels of difficulty: Easy and Hard.
@@ -33,7 +32,8 @@ After watching the solution provided by Dr. Angela Yu, who used built-in functio
 
 ## Running the program
 You can head over the project and run it by the link: https://replit.com/@GabrielPerei151/password-generator-start
-I hope you enojy. 😉
+
+I hope you enjoy. 😉
 
 ## 😃 Thanks to read this README until the end. 
 
