@@ -1,10 +1,10 @@
 # Password Generator in Python
 ## Hello! Welcome to this README!
 ## Table of Contents
-- [Overiew](https://github.com/Gabriel7ven/python-password-generator/edit/main/README.md#overview)
-- [Easy Level](https://github.com/Gabriel7ven/python-password-generator/edit/main/README.md#easy-level)
-- [Hard Level](https://github.com/Gabriel7ven/python-password-generator/edit/main/README.md#hard-level)
-- [Running the Program](https://github.com/Gabriel7ven/python-password-generator/edit/main/README.md#running-the-program)
+- [Overiew](https://github.com/Gabriel7ven/python-password-generator/tree/main/README.md#overview)
+- [Easy Level](https://github.com/Gabriel7ven/python-password-generator/tree/main/README.md#easy-level)
+- [Hard Level](https://github.com/Gabriel7ven/python-password-generator/tree/main/README.md#hard-level)
+- [Running the Program](https://github.com/Gabriel7ven/python-password-generator/tree/main/README.md#running-the-program)
 
 ## Overview
 This project is solution to the 5th day's challenge  of the course '100 Days of Code' in Python with Dr. Angela Yu.
